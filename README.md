@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Hackathon submission snapshot**
+>
+> This repository preserves the version submitted to **Reinvent the Wheel, 16–18 October 2026**, hosted by [Science Works](https://science.works) and [Inherent Laboratories](https://inherentlabs.ai/).
+>
+> **For the latest version, issues and contributions, visit the original project: [murtonj2003/sciworks-fieldkit](https://github.com/murtonj2003/sciworks-fieldkit).**
+>
+> Submitted version: [`2ef382e`](https://github.com/science-works/rtw-2026-field-kit/tree/2ef382e5616eb26552c2e9de4031a6d805ecd9d5). This notice was added after submission. Nothing else in the repository has changed.
+
+---
+
 # Fieldkit
 
 **Offline data collection for wildlife surveys, for teams that spend weeks without signal.** A phone app for the
